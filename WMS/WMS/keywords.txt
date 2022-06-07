@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For ezButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WMS	KEYWORD1
+
+
+boreMotorStatus		 KEYWORD3
+sumpMotorStatus		 KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pinInit				KEYWORD2
+WMStype				KEYWORD2
+readFloatSensor		KEYWORD2
+readOhSensor		KEYWORD2
+On					KEYWORD2
+Off					KEYWORD2
+boreOn				KEYWORD2
+boreOff				KEYWORD2
+sumpOn				KEYWORD2
+sumpOff				KEYWORD2
+readOnlineCommand	KEYWORD2
+getMode				KEYWORD2
+readUsSensor		KEYWORD2
+errorDetection		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
