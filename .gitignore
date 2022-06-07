@@ -1,0 +1,6 @@
+
+*.vsidx
+*.lock
+WMS_2.0_SLAVE_CODE/.vs/WMS_2.0_SLAVE_CODE/v17/.suo
+*.db
+*.ipch
